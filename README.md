@@ -12,7 +12,7 @@
 - [Simple Simon Solitaire](docs/simple_simon_solitaire.md)
 - [Golf Solitaire](docs/golf_solitaire.md)
 - [Eight Off Solitaire](docs/eight_off_solitaire.md)
-- [Baker's Game Solitaire](docs/bakers_Game_solitaire.md)
+- [Baker's Game Solitaire](docs/bakers_game_solitaire.md)
 
 ## Links
 - Web: https://b6.games/solitaire/
